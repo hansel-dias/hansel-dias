@@ -8,7 +8,7 @@
 hansel-dias/hansel-dias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Data Scientist Portfolio #
+# Welcome to my Git Repo #
 Welcome to my Github repository for data science projects! I am a data scientist with a background in statistics and machine learning, and I am passionate about using data to solve real-world problems.
 
 # Project Overview #
